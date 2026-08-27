@@ -87,8 +87,8 @@ marketplace-liquidity-dispatch-engine/
 
  2. **Install dependencies:**
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
  3. **Run the Analysis Pipeline:**
 
-jupyter notebook marketplace_analytics_pipeline.ipynb
+   jupyter notebook marketplace_analytics_pipeline.ipynb
